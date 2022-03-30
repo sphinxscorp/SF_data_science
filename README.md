@@ -5,3 +5,4 @@ From the [SkillFactory Data Science course] (https://skillfactory.ru/data-scient
 ## Projects
 
 * [Проект 0: Угадай число] (https://github.com/sphinxscorp/SF_data_science/tree/main/project_0)
+* [Проект 1: Анализ вакансий HeadHunter] ()
